@@ -1,7 +1,7 @@
 # 🚀 Maratona Discovery / Dev.Finance
 
 <h1>
-    <img src="assets/devFinance.jpg">
+    <img src="assets/devFinance.JPG">
 </h1>
 
 ## 📖 About
